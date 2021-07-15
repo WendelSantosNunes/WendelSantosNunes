@@ -12,5 +12,6 @@
 </ul>
       
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelSantosNunes)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WendelSantosNunes&show_icons=true">
+</div>
