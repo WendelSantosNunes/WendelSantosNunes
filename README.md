@@ -25,6 +25,6 @@ instagram
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSantosNunes&langs_count=8" width="29.5%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSantosNunes&langs_count=8" width="286">
   <img src="https://github-readme-stats.vercel.app/api?username=WendelSantosNunes&show_icons=true">
 </div>
