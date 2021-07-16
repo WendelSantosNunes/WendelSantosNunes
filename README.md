@@ -19,10 +19,12 @@
 instagram
 <a href="//www.google.com" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
-<a href="wendelnunes9999@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wendelnunes9999@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/wendel-nunes/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ---
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSantosNunes&langs_count=8" width="29.5%">
   <img src="https://github-readme-stats.vercel.app/api?username=WendelSantosNunes&show_icons=true">
 </div>
