@@ -1,7 +1,7 @@
 <h1 align="center"> Olá 👋, bem vindo! </h1>
 
 <h3>Eu sou Wendel dos Santos Nunes, moro em Picos-PI</h3>
-<h3>Eu estou atualmente no 3 período do curso de sistema de informação (UFPI)</h3>
+<h3>Eu estou atualmente no 4 período do curso de sistema de informação (UFPI)</h3>
 <h3>Estou estudando atualmente:</h3> 
 
 <ul>
