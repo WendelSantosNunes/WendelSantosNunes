@@ -1,4 +1,4 @@
-# align="center"> Olá 👋, bem vindo!
+# Olá 👋, bem vindo!
 
 ### Eu sou Wendel dos Santos Nunes, moro em Picos-PI
 ### Eu estou atualmente no 4 período do curso de sistema de informação (UFPI)
