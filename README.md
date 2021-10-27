@@ -1,8 +1,8 @@
-<h1 align="center"> Olá 👋, bem vindo! </h1>
+# align="center"> Olá 👋, bem vindo!
 
-<h3>Eu sou Wendel dos Santos Nunes, moro em Picos-PI</h3>
-<h3>Eu estou atualmente no 4 período do curso de sistema de informação (UFPI)</h3>
-<h3>Estou estudando atualmente:</h3> 
+### Eu sou Wendel dos Santos Nunes, moro em Picos-PI
+### Eu estou atualmente no 4 período do curso de sistema de informação (UFPI)
+### Estou estudando atualmente:
 
 <ul>
   <li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></li>
@@ -13,7 +13,7 @@
 
 ---
 
-<h3> Contato</h3>
+### Contato
 <!--
 instagram
 <a href="//www.google.com" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
