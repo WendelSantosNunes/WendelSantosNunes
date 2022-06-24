@@ -1,7 +1,7 @@
 # Olá 👋, bem vindo!
 
 ### Eu sou Wendel dos Santos Nunes, moro em Picos-PI
-### Eu estou atualmente no 5 período do curso de sistema de informação (UFPI)
+### Eu estou atualmente no 6 período do curso de sistema de informação (UFPI)
 ### Estou estudando atualmente:
 
 - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
