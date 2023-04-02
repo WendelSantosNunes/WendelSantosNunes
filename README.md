@@ -14,12 +14,12 @@ Durante meu percurso, tanto dentro quanto fora da faculdade, desenvolvi um forte
 
 [![Rocketset](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen?style=for-the-badge)](https://app.rocketseat.com.br/me/wendel-dos-santos-nunes-00850)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wendelnunes1/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-nunes1/)
 
 ---
 ### Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wendelnunes9999@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-nunes1/)
 
 ---
 [![Dados1](https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSantosNunes&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
