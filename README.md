@@ -1,6 +1,6 @@
 # Olá 👋, bem vindo!
 
-Meu nome é Wendel, tenho 23 anos e moro em Picos-PI. Atualmente, estou no 7º período do curso de Sistema de Informação na UFPI.
+Meu nome é Wendel, tenho 23 anos e moro em Picos-PI. Atualmente, estou no 8º período do curso de Sistema de Informação na UFPI.
 
 Durante meu percurso, tanto dentro quanto fora da faculdade, desenvolvi um forte interesse na área da web e estou me especializando nessa área.
 
