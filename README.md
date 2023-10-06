@@ -1,8 +1,8 @@
 # Olá 👋, bem vindo!
 
-Meu nome é Wendel, tenho 23 anos e moro em Picos-PI. Atualmente, estou no 8º período do curso de Sistema de Informação na UFPI.
+Olá, meu nome é Wendel, faço o curso de Sistemas de Informação na Universidade Federal do Piauí e atualmente estou no último período desse curso.
 
-Durante meu percurso, tanto dentro quanto fora da faculdade, desenvolvi um forte interesse na área da web e estou me especializando nessa área.
+Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no desenvolvimento de aplicações, abrangendo desde o Back-end até o Front-End. Dedico-me constantemente ao aprimoramento nesse campo, por meio de cursos, projetos pessoais e experiência como monitor na área. Possuo afinidade com tecnologias como React, TypeScript, Next.js, Node.js, Java e Django para o desenvolvimento de Aplicação.
 
 --- 
 ### Minhas Skills:
