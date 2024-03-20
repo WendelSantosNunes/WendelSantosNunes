@@ -1,8 +1,8 @@
 # Olá 👋, bem vindo!
 
-Olá, meu nome é Wendel, faço o curso de Sistemas de Informação na Universidade Federal do Piauí e atualmente estou no último período desse curso.
+Olá, meu nome é Wendel, sou formado em Sistemas de Informação pela Universidade Federal do Piauí.
 
-Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no desenvolvimento de aplicações, abrangendo desde o Back-end até o Front-End. Dedico-me constantemente ao aprimoramento nesse campo, por meio de cursos, projetos pessoais e experiência como monitor na área. Possuo afinidade com tecnologias como React, TypeScript, Next.js, Node.js, Java e Django para o desenvolvimento de Aplicação.
+Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no desenvolvimento de aplicações, abrangendo desde o Back-end até o Front-End. Dedico-me constantemente ao aprimoramento nesse campo, por meio de cursos, projetos pessoais e experiência como monitor na área. Possuo afinidade com tecnologias como Java, Java Spring, Java Security, React, TypeScript, Next.js, Node.js e Django para o desenvolvimento de Aplicação.
 
 --- 
 ### Minhas Skills:
