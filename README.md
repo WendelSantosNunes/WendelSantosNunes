@@ -2,7 +2,7 @@
 
 Olá, meu nome é Wendel, sou formado em Sistemas de Informação pela Universidade Federal do Piauí.
 
-Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no desenvolvimento de aplicações, abrangendo desde o Back-end até o Front-End. Dedico-me constantemente ao aprimoramento nesse campo, por meio de cursos, projetos pessoais e experiência como monitor na área. Possuo afinidade com tecnologias como Angular, Java, Java Spring, Java Security, TypeScript e Node.js para o desenvolvimento de Aplicação.
+Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no desenvolvimento de aplicações, abrangendo desde o Back-end até o Front-End. Dedico-me constantemente ao aprimoramento nesse campo, por meio de cursos, projetos pessoais e experiência como monitor na área. Possuo afinidade com tecnologias como Python, Django, Java, Java Spring, Java Security para o desenvolvimento de Aplicação.
 
 --- 
 ### Minhas Skills:
