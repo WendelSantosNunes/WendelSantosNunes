@@ -23,7 +23,7 @@ Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no d
 ---
 ### Portfólio
 
-[**Wendel Santos**](https://wendelsantos.vercel.app/)
+[**Wendel Santos**](https://wendel-nunes.vercel.app)
 
 ---
 [![Dados1](https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSantosNunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
