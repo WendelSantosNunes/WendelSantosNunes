@@ -6,7 +6,7 @@ Ao longo da minha jornada acadêmica, tenho desenvolvido um forte interesse no d
 
 --- 
 ### Minhas Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgresql,mongodb,html,css,js,typescript,nodejs,angular,docker,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,maven,mysql,postgresql,mongodb,html,css,docker,linux)](https://skillicons.dev)
 
 ---
 ### Redes social
